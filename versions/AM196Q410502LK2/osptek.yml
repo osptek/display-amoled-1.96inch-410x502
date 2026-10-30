@@ -1,0 +1,10 @@
+id: AM196Q410502LK2
+category: displays
+size: "1.96"
+panel: amoled
+resolution: 410x502
+interface: [qspi]
+driver: ST7801N
+touch: CST820
+outline: 33.07 x 41.21 mm
+active_area: 31.37 x 38.40 mm

@@ -1,0 +1,10 @@
+id: AM196Q410502LK
+category: displays
+size: "1.96"
+panel: amoled
+resolution: 410x502
+interface: [qspi]
+driver: CO5300AF-32
+touch: CST820
+outline: 35.36 x 44.07 mm
+active_area: 31.37 x 38.40 mm
